@@ -104,11 +104,4 @@ Pokemon Go character data was collected from an API using Python. The ETL proces
     * Software platforms: Original built in Microsoft PowerPoint
     Files: [Presentation.pdf](Presentation.pdf)
 
-
-
-## Contact Information
-* Tiffany Harris
-* Mobile: 704-352-4094
-* Email: [tiffanyaharris711@gmail.com](mailto:tiffanyaharris711@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/tiffany-harris-analyst/](https://www.linkedin.com/in/tiffany-harris-analyst/)
 * Deployed website: [https://pokemon-go-smu.herokuapp.com/](https://pokemon-go-smu.herokuapp.com/)
